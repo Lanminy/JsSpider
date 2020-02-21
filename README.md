@@ -1,4 +1,27 @@
-## JSpider
-## 关于
-JSpider 的含义是 JavaScript 与 Spider，JSpider每周会更新至少一个网站的JS解密方式。并且把解密的JS文件分享出来，该JS文件可以直接使用Python模块pyexecjs调用执行。分享的文件包括JS源码和Python程序。
--   #### 欢迎Star
+Python高效学习 
+
+详细教程关注公众号： Python高效学习！ 
+
+Python爬虫进阶 JS 解密逆向实战
+
+1. 百度翻译
+2. 有道翻译
+3. 谷歌学术镜像
+4. 抖音字体破解
+5. 全国建筑市场监管平台数据解密
+6. 房天下登录RSA
+
+
+
+JS加密分析破解说明:
+
+1. [全国建筑市场监管平台数据解密](https://mp.weixin.qq.com/s/y2I5rIG-Q0d-q33AIo-DnA)
+
+
+
+ 关于本人
+
+公众号：Python高效学习，欢迎关注一起探讨学习，获取更多知识
+
+邮箱：[18790334713@163.com](mailto:18790334713@163.com)
+
