@@ -1265,8 +1265,6 @@ function BarrettMu_powMod(x, y) {
     return result;
 }
 
-
-
 function getpwd(pwdvalue) {
         setMaxDigits(130);
         var PublicExponent = "10001";
