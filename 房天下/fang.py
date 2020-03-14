@@ -33,8 +33,9 @@ class FangJS(object):
                 self.ctx = execjs.compile(f.read())
         print(self.password)
         pwd = self.ctx.call('getPwd', self.password)
-        print(pwd)
+
         self.data['pwd'] = pwd  # data中的pwd参数重新赋值
+
 
     def login(self):
         resp = requests.post(self.login_url, headers=HEADERS, data=self.data)
