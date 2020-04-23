@@ -496,7 +496,6 @@ function getpwd(username, password) {
         return k;
 }
 
-
 console.log(getpwd('12345123','123456'));
 
 /*
